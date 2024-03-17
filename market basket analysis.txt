@@ -1,0 +1,6 @@
+Market basket analysis is a data mining technique that analyzes patterns of co-occurrence and determines the strength of the link between products purchased together. We also refer to it as frequent itemset mining or association analysis.
+
+eg) bread+jam, laptop+bag, chicken+chicken massala,.......
+
+
+association rule mining:
